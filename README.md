@@ -1,4 +1,4 @@
 ## sample credentials
 
-id : 1000
-password: farmer1000
++ id : 1000
++ password: farmer1000
