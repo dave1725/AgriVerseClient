@@ -67,6 +67,8 @@ const Login = () => {
                         <div className="overlay-panel overlay-right">
                             <h1>Welcome, Farmer!</h1>
                             <p>Bring your farm to the virtual world!</p>
+                            <p>Sample ID : 1000</p>
+                            <p>Sample Password: farmer1000</p>
                             {/* <button className="ghost" id="signUp">Sign Up</button> */}
                         </div>
                     </div>
