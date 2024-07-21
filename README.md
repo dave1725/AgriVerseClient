@@ -9,6 +9,10 @@ use the below credentials to login!
 + password: farmer1000
 
 ## Features
+- Manage your multiverse farms!
+- Manage your stakeholder!
+- Manage your sales with our powerful dashboard
+- Manage your crops and inventory
 
 ## License
 This project is licensed under MIT license - Kindly refer the LICENSE file for details.
